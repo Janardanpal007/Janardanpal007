@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 48" width="1200" height="48" role="img" aria-labelledby="t">
+  <title id="t">Section divider</title>
+  <rect x="48" y="23" width="520" height="2" rx="1" fill="#14264A"/>
+  <rect x="632" y="23" width="520" height="2" rx="1" fill="#14264A"/>
+  <polygon points="606,6 590,28 600,28 594,44 614,20 603,20 610,6" fill="#236A99" transform="translate(4 3)"/>
+  <polygon points="606,6 590,28 600,28 594,44 614,20 603,20 610,6" fill="#FFD166"/>
+</svg>
