@@ -36,7 +36,7 @@ My interests meet where useful products, thoughtful interfaces, and the right au
 ### 📱 Mobile Handler
 **One place for everyday phone tasks.**
 
-Document tools, scanning, notes, calculations, and phone care — with Sparky helping you find the right tool.
+Ad blocking, photo enhancing, document tools, scanning, notes, calculations, and phone care — with Sparky helping you find the right tool.
 
 [Explore the app](https://janardanpal007.github.io/mobile-handler/) · [Releases](https://github.com/Janardanpal007/mobile-handler/releases) · [Feedback](https://github.com/Janardanpal007/mobile-handler/issues)
 
