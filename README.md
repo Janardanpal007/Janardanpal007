@@ -3,31 +3,24 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/janardan-pal/"><img src="https://img.shields.io/badge/LinkedIn-Let%27s_connect-537B68?style=for-the-badge" alt="Connect with Janardan on LinkedIn" /></a>
-  <a href="https://discord.dog/704385778809307226"><img src="https://img.shields.io/badge/Discord-Say_hello-7082B8?style=for-the-badge" alt="Find Janardan on Discord" /></a>
-  <a href="#explore-my-apps"><img src="https://img.shields.io/badge/Explore-My_apps-D77960?style=for-the-badge" alt="Explore my apps" /></a>
+  <a href="#-my-apps"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=2800&pause=900&color=D77960&center=true&vCenter=true&width=640&lines=I+connect+marketing+with+making.;5+apps+shipped+for+everyday+tasks.;Android+%C2%B7+Kotlin+%C2%B7+Jetpack+Compose.;Affiliate+marketing+by+day%2C+builder+by+night." alt="I connect marketing with making. 5 apps shipped for everyday tasks." /></a>
 </p>
-
-<h2 align="center">Hi, I'm Janardan. I connect marketing with making.</h2>
 
 <p align="center">
-I work in affiliate marketing and build apps for everyday tasks.<br />
-My interests meet where useful products, thoughtful interfaces, and the right audience come together.<br />
-<b>Based in Lucknow, India · Open to hybrid and remote opportunities</b>
+  <a href="https://www.linkedin.com/in/janardan-pal/"><img src="https://img.shields.io/badge/LinkedIn-Let%27s_connect-537B68?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Janardan on LinkedIn" /></a>
+  <a href="https://discord.dog/704385778809307226"><img src="https://img.shields.io/badge/Discord-Say_hello-7082B8?style=for-the-badge&logo=discord&logoColor=white" alt="Find Janardan on Discord" /></a>
+  <a href="#-my-apps"><img src="https://img.shields.io/badge/Explore-My_apps-D77960?style=for-the-badge&logo=android&logoColor=white" alt="Explore my apps" /></a>
 </p>
 
----
+## 👋 About me
 
-## New here? Start with what brings you.
+- 🧭 I work in **affiliate marketing** and build **apps for everyday tasks**.
+- 📱 I ship Android apps in **Kotlin** and **Jetpack Compose**, plus a desktop download manager.
+- 🎯 I care about useful products, thoughtful interfaces, and reaching the right audience.
+- 📍 Based in **Lucknow, India** · open to hybrid and remote opportunities.
+- 💬 Talk to me about apps, growth, affiliate programs, and conversion tracking.
 
-| I want to… | Start here |
-| :--- | :--- |
-| **Try an app** | Explore the projects below, then visit the website or releases page. |
-| **Discuss work or a partnership** | [Connect on LinkedIn](https://www.linkedin.com/in/janardan-pal/) — tell me about the role, product, or campaign. |
-| **Share a bug or feature idea** | Open an issue in the relevant project. Include the app version, device, and steps to reproduce. |
-| **Say hello** | [Find me on Discord](https://discord.dog/704385778809307226). |
-
-## Explore my apps
+## 🚀 My apps
 
 <table>
 <tr>
@@ -38,7 +31,11 @@ My interests meet where useful products, thoughtful interfaces, and the right au
 
 Ad blocking, photo enhancing, document tools, scanning, notes, calculations, and phone care — with Sparky helping you find the right tool.
 
-[Explore the app](https://janardanpal007.github.io/mobile-handler/) · [Releases](https://github.com/Janardanpal007/mobile-handler/releases) · [Feedback](https://github.com/Janardanpal007/mobile-handler/issues)
+<a href="https://github.com/Janardanpal007/mobile-handler/releases/latest"><img src="https://img.shields.io/github/v/release/Janardanpal007/mobile-handler?style=flat-square&label=latest&color=537B68" alt="Latest Mobile Handler release" /></a>
+<img src="https://img.shields.io/github/downloads/Janardanpal007/mobile-handler/total?style=flat-square&label=downloads&color=7082B8" alt="Mobile Handler downloads" />
+<img src="https://img.shields.io/badge/Android-Kotlin-D77960?style=flat-square&logo=android&logoColor=white" alt="Android, Kotlin" />
+
+[Website](https://janardanpal007.github.io/mobile-handler/) · [Releases](https://github.com/Janardanpal007/mobile-handler/releases) · [Feedback](https://github.com/Janardanpal007/mobile-handler/issues)
 
 </td>
 <td width="50%" valign="top">
@@ -48,7 +45,11 @@ Ad blocking, photo enhancing, document tools, scanning, notes, calculations, and
 
 An Android browser with tabs, ad and tracker filtering, reader mode, and download management.
 
-[Explore the app](https://janardanpal007.github.io/Ghostream/) · [Releases](https://github.com/Janardanpal007/Ghostream/releases) · [Feedback](https://github.com/Janardanpal007/Ghostream/issues)
+<a href="https://github.com/Janardanpal007/Ghostream/releases/latest"><img src="https://img.shields.io/github/v/release/Janardanpal007/Ghostream?style=flat-square&label=latest&color=537B68" alt="Latest Ghostream release" /></a>
+<img src="https://img.shields.io/github/downloads/Janardanpal007/Ghostream/total?style=flat-square&label=downloads&color=7082B8" alt="Ghostream downloads" />
+<img src="https://img.shields.io/badge/Android-Kotlin-D77960?style=flat-square&logo=android&logoColor=white" alt="Android, Kotlin" />
+
+[Website](https://janardanpal007.github.io/Ghostream/) · [Releases](https://github.com/Janardanpal007/Ghostream/releases) · [Feedback](https://github.com/Janardanpal007/Ghostream/issues)
 
 </td>
 </tr>
@@ -56,11 +57,15 @@ An Android browser with tabs, ad and tracker filtering, reader mode, and downloa
 <td width="50%" valign="top">
 
 ### ⚡ FastDownloader
-**Keep your desktop downloads moving.**
+**Keep your downloads moving.**
 
-Multi-connection downloads, pause and resume, queues, and browser integration for Windows, macOS, and Linux.
+Multi-connection downloads, pause and resume, queues, and browser integration for Android, Windows, macOS, and Linux.
 
-[Explore the app](https://janardanpal007.github.io/FastDownloader-Download/) · [Releases](https://github.com/Janardanpal007/FastDownloader-Download/releases) · [Feedback](https://github.com/Janardanpal007/FastDownloader-Download/issues)
+<a href="https://github.com/Janardanpal007/FastDownloader-Download/releases/latest"><img src="https://img.shields.io/github/v/release/Janardanpal007/FastDownloader-Download?style=flat-square&label=latest&color=537B68" alt="Latest FastDownloader release" /></a>
+<img src="https://img.shields.io/github/downloads/Janardanpal007/FastDownloader-Download/total?style=flat-square&label=downloads&color=7082B8" alt="FastDownloader downloads" />
+<img src="https://img.shields.io/badge/Android_·_Desktop-D77960?style=flat-square&logo=windows&logoColor=white" alt="Android and desktop" />
+
+[Website](https://janardanpal007.github.io/FastDownloader-Download/) · [Releases](https://github.com/Janardanpal007/FastDownloader-Download/releases) · [Feedback](https://github.com/Janardanpal007/FastDownloader-Download/issues)
 
 </td>
 <td width="50%" valign="top">
@@ -70,7 +75,11 @@ Multi-connection downloads, pause and resume, queues, and browser integration fo
 
 Scan documents, convert files, annotate and sign PDFs, and organize pages on Android.
 
-[Explore the app](https://janardanpal007.github.io/proscan-doc-pdf/) · [Browser demo](https://janardanpal007.github.io/proscan-doc-pdf/app/) · [Feedback](https://github.com/Janardanpal007/proscan-doc-pdf/issues)
+<a href="https://github.com/Janardanpal007/proscan-doc-pdf/releases/latest"><img src="https://img.shields.io/github/v/release/Janardanpal007/proscan-doc-pdf?style=flat-square&label=latest&color=537B68" alt="Latest ProScan release" /></a>
+<img src="https://img.shields.io/github/downloads/Janardanpal007/proscan-doc-pdf/total?style=flat-square&label=downloads&color=7082B8" alt="ProScan downloads" />
+<img src="https://img.shields.io/badge/Android-PDF_toolkit-D77960?style=flat-square&logo=android&logoColor=white" alt="Android PDF toolkit" />
+
+[Website](https://janardanpal007.github.io/proscan-doc-pdf/) · [Browser demo](https://janardanpal007.github.io/proscan-doc-pdf/app/) · [Feedback](https://github.com/Janardanpal007/proscan-doc-pdf/issues)
 
 </td>
 </tr>
@@ -80,17 +89,31 @@ Scan documents, convert files, annotate and sign PDFs, and organize pages on And
 ### 🪙 FinTrack
 **A clearer view of your money.**
 
-A local-only money tracker for Android. The public repository hosts the website and release downloads.
+A private, local-only money tracker for Android. Nothing leaves your phone.
 
-[Explore the app](https://janardanpal007.github.io/fintrack-app/) · [Releases](https://github.com/Janardanpal007/fintrack-app/releases) · [Feedback](https://github.com/Janardanpal007/fintrack-app/issues)
+<a href="https://github.com/Janardanpal007/fintrack-app/releases/latest"><img src="https://img.shields.io/github/v/release/Janardanpal007/fintrack-app?style=flat-square&label=latest&color=537B68" alt="Latest FinTrack release" /></a>
+<img src="https://img.shields.io/github/downloads/Janardanpal007/fintrack-app/total?style=flat-square&label=downloads&color=7082B8" alt="FinTrack downloads" />
+<img src="https://img.shields.io/badge/Android-Offline_first-D77960?style=flat-square&logo=android&logoColor=white" alt="Android, offline first" />
+
+[Website](https://janardanpal007.github.io/fintrack-app/) · [Releases](https://github.com/Janardanpal007/fintrack-app/releases) · [Feedback](https://github.com/Janardanpal007/fintrack-app/issues)
 
 </td>
 </tr>
 </table>
 
-<sub>Visit each project for current features, requirements, installation guidance, and release notes.</sub>
+## 🛠️ What I build with
 
-## What I bring to the table
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle,js,nodejs,electron,html,css,python,git,github,githubactions&perline=12" alt="Kotlin, Android Studio, Gradle, JavaScript, Node.js, Electron, HTML, CSS, Python, Git, GitHub, GitHub Actions" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Jetpack_Compose-537B68?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Meta_Ads-7082B8?style=flat-square&logo=meta&logoColor=white" alt="Meta Ads" />
+  <img src="https://img.shields.io/badge/Meta_Pixel_·_Conversions_API-7082B8?style=flat-square&logo=meta&logoColor=white" alt="Meta Pixel and Conversions API" />
+  <img src="https://img.shields.io/badge/Affiliate_marketing-D77960?style=flat-square" alt="Affiliate marketing" />
+  <img src="https://img.shields.io/badge/SEO_·_Content-D77960?style=flat-square&logo=googlesearchconsole&logoColor=white" alt="SEO and content" />
+</p>
 
 | Marketing & growth | Building & learning |
 | :--- | :--- |
@@ -99,9 +122,18 @@ A local-only money tracker for Android. The public repository hosts the website 
 | Meta Pixel, Conversions API, and conversion tracking | Everyday utility and document workflows |
 | SEO, content, and audience development | Product presentation and user experience |
 
-I'm bringing my marketing experience into my own products while continuing to develop my engineering skills.
+## 📊 GitHub activity
 
-## A little more about my journey
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Janardanpal007&show_icons=true&hide=stars&hide_border=true&bg_color=00000000&title_color=D77960&icon_color=537B68&text_color=8B949E&rank_icon=github" alt="Janardan's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janardanpal007&layout=compact&hide_border=true&bg_color=00000000&title_color=D77960&text_color=8B949E" alt="Janardan's most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Janardanpal007&hide_border=true&background=00000000&ring=D77960&fire=D77960&currStreakLabel=D77960&sideLabels=8B949E&currStreakNum=8B949E&sideNums=8B949E&dates=8B949E&stroke=537B68" alt="Janardan's GitHub streak" />
+</p>
+
+## 🧭 My journey
 
 <details>
 <summary><b>Experience, education, and milestones</b></summary>
