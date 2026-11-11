@@ -125,11 +125,6 @@ A private, local-only money tracker for Android. Nothing leaves your phone.
 ## 📊 GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Janardanpal007&show_icons=true&hide=stars&hide_border=true&bg_color=00000000&title_color=D77960&icon_color=537B68&text_color=8B949E&rank_icon=github" alt="Janardan's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janardanpal007&layout=compact&hide_border=true&bg_color=00000000&title_color=D77960&text_color=8B949E" alt="Janardan's most used languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Janardanpal007&hide_border=true&background=00000000&ring=D77960&fire=D77960&currStreakLabel=D77960&sideLabels=8B949E&currStreakNum=8B949E&sideNums=8B949E&dates=8B949E&stroke=537B68" alt="Janardan's GitHub streak" />
 </p>
 
